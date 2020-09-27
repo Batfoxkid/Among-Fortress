@@ -1,0 +1,139 @@
+"Phrases"
+{
+	"win_fake"
+	{
+		"en"		"Imposters Won"
+	}
+	"win_crew"
+	{
+		"en"		"Crewmates Won"
+	}
+	"win"
+	{
+		"en"		"Victory"
+	}
+	"lose"
+	{
+		"en"		"Defeat"
+	}
+	"round_end"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:d}"
+		"en"		"There was {1}/{2} Crewmates alive and {3}/{4} Imposters alive"
+	}
+	"kill_not"
+	{
+		"#format"	"{1:d}"
+		"en"		"Kill Crewmate [{1}s]"
+	}
+	"kill_ready"
+	{
+		"en"		"Kill Crewmate [ATTACK]"
+	}
+	"event_not"
+	{
+		"#format"	"{1:d}"
+		"en"		"Sabotage [{1}s]"
+	}
+	"event_ready"
+	{
+		"en"		"Sabotage [RELOAD]"
+	}
+	"body_not"
+	{
+		"en"		"Report [-]"
+	}
+	"body_ready"
+	{
+		"en"		"Report [ATTACK2]"
+	}
+	"waiting"
+	{
+		"en"		"Waiting for players..."
+	}
+	"emergency"
+	{
+		"en"		"Emergency Meeting"
+	}
+	"reported"
+	{
+		"en"		"Body Reported"
+	}
+	"emergency_desc"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} started a emergency meeting, discuss who is the imposter then vote on it."
+	}
+	"reported_desc"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} found a dead body, discuss who is the imposter then vote on it."
+	}
+	"vote_started"
+	{
+		"en"		"Chat is now enabled"
+	}
+	"vote_ends"
+	{
+		"#format"	"{1:d}"
+		"en"		"Vote Ends In {1}s"
+	}
+	"voted_for"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"		"{1} voted for {2}"
+	}
+	"voted_skip"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} voted to skip"
+	}
+	"result_tie"
+	{
+		"en"		"No one was ejected. (Tie)"
+	}
+	"result_skip"
+	{
+		"en"		"No one was ejected. (Skipped)"
+	}
+	"result_correct"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} was the Imposter."
+	}
+	"result_incorrect"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} was Not the Imposter."
+	}
+	"vote_title"
+	{
+		"en"		"Vote who is the Imposter\n"
+	}
+	"you_crewmate"
+	{
+		"en"		"You are a Crewmate"
+	}
+	"you_spectate"
+	{
+		"en"		"You are a Spectator"
+	}
+	"you_imposter"
+	{
+		"en"		"You are a Imposter"
+	}
+	"among_us"
+	{
+		"#format"	"{1:d}"
+		"en"		"There are {1} Imposters among us."
+	}
+	"your_allies"
+	{
+		"en"		"Your allies: "
+	}
+	"tasks_total"
+	{
+		"#format"	"{1:d}"
+		"en"		"Team Tasks Done: {1}"
+	}
+}
